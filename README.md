@@ -1,4 +1,4 @@
-<p align="left">Celso A.M<br>I'm currently learning python</p>
+<p align="left">Adrian A.M<br>I'm not a genious, and i don't wanna be a genious, but, i have all i need and i love my Heavenly Father, and his Holy Son Jesus the Lord</p>
 
 ###
 
